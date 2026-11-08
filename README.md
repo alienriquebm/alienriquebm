@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alienriquebm
-- 👀 I’m interested in all javascript technologies, like React
-- 👨🏻‍💻 I’m currently learning NextJS
+- 👀 Full Stack Developer on React, NodeJS.
+- 👨🏻‍💻 I’m currently learning IA Orchestration
 
 <!---
 alienriquebm/alienriquebm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
